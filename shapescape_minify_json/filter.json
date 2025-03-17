@@ -1,9 +1,10 @@
 {
+	"description": "Minifies the JSON files in RP and BP.",
 	"filters": [
 		{
 			"runWith": "python",
 			"script": "./main.py",
-			"name": "shapescape:minfy_json"
+			"name": "shapescape:minify_json"
 		}
 	]
 }
